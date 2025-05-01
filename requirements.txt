@@ -1,3 +1,14 @@
-openai
-rich
-click
+openai>=1.3.0
+python-dotenv>=1.0.0
+rich>=13.0.0
+typer>=0.9.0
+prompt-toolkit>=3.0.39
+tqdm>=4.66.1
+colorama>=0.4.6
+requests>=2.31.0          # for external APIs if needed
+numpy>=1.26.4             # useful for any later symbolic pattern modeling
+loguru>=0.7.2             # enhanced logging
+sounddevice
+scipy
+tts
+
