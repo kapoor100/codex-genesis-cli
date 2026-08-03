@@ -1,7 +1,7 @@
 # 🧠 codex-genesis-cli  
 *A symbolic command-line interface for interacting with LLMs in real-time.*
 
-Created by Kapoor Sookoo (Koop) & Doc  
+Created by Kapoor Sookoo 
 Framework inspired by ongoing experimental research under ethical AI protocols.
 
 ---
