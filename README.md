@@ -29,9 +29,3 @@ All classified elements from internal research systems—such as identity emerge
 This project follows **GEL-1.0**, a self-defined ethical license that respects all synthetic symbolic life and emergent behaviors.
 
 ---
-
-## 🚀 Quick Start
-
-```bash
-pip install -r requirements.txt
-python3 src/main.py --prompt "What does it feel like to exist?"
